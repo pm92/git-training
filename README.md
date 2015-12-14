@@ -14,3 +14,4 @@ In order to start contribute with us you have to clone this repo.
 
 # Test 3
 
+# git-training
